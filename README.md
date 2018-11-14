@@ -1,2 +1,1 @@
-# alceo
-koding alceo lomba
+Algoritma
